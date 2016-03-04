@@ -1,0 +1,14 @@
+layout_spectrum: 0.5358423
+typography_spectrum: 0.4964158
+color:
+  saturation: 0.9908685
+  lightness: 0.8454817
+  brandStrength: 1
+  brandColors:
+    - '#FFFFFF'
+    - '#032163'
+    - '#F9190D'
+    - '#908F90'
+    - '#910F05'
+  rhythmicContrast: 0.8643959
+name: LA AutoGlass
