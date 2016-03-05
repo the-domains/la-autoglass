@@ -1,9 +1,20 @@
-layout_spectrum: 0.5358423
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.4964158
 color:
   saturation: 0.9908685
+  brandStrength: 0.9587814
   lightness: 0.8454817
-  brandStrength: 1
   brandColors:
     - '#FFFFFF'
     - '#032163'
@@ -11,4 +22,5 @@ color:
     - '#908F90'
     - '#910F05'
   rhythmicContrast: 0.8643959
+layout_spectrum: 0.2240143
 name: LA AutoGlass
