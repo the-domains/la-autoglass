@@ -1,3 +1,7 @@
+name: LA AutoGlass
+favicon: null
+layout_spectrum: 0.2240143
+typography_spectrum: 0.4964158
 collections:
   - index:
       path: /
@@ -10,17 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.4964158
+title: 'Windshield Repair & Auto Glass Replacement Company in Los Angeles'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.9908685
-  brandStrength: 0.9587814
-  lightness: 0.8454817
   brandColors:
     - '#FFFFFF'
     - '#032163'
     - '#F9190D'
     - '#908F90'
     - '#910F05'
+  brandStrength: 0.9587814
+  lightness: 0.8454817
+  saturation: 0.9908685
   rhythmicContrast: 0.8643959
-layout_spectrum: 0.2240143
-name: LA AutoGlass
+purpose: []
